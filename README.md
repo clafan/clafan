@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm clafan</h1>
-<h3 align="center">17 y/o doing stupid shit</h3>
+<h3 align="center">18 y/o doing stupid shit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clafan&label=Profile%20views&color=0e75b6&style=flat" alt="clafan" /> </p>
 
